@@ -1,4 +1,4 @@
-
+<html>
 <form action="http://example.com/company.php" method="get">
 <fieldset>
 <legend>
@@ -22,3 +22,4 @@ Account Information
 <input type="submit" value="submit" />
 
 </form>
+</html>
